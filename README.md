@@ -6,8 +6,6 @@
 
 <code>
 
-
-
 $mig_obj = new DrupalToWordpressMigration();
 $mig_obj->set_drupal_db_host('localhost');
 $mig_obj->set_drupal_db_name('drupal_migration_test');
